@@ -41,7 +41,7 @@ Worldwide network research and educational laboratories
 
 @css[showcase](David Tethal 2018)
 
----?image=images/grass_meta.png&size=cover&opacity=20
+---?image=images/grass_meta.png&size=contain
 
 @css[showcase](GSoC #2)
 
@@ -49,7 +49,7 @@ Worldwide network research and educational laboratories
 
 @css[showcase](Matej Krejci 2015)
 
----?image=images/grass_scatter.png&size=cove&size=contain
+---?image=images/grass_scatter.png&&size=contain
 
 @css[showcase](GSoC #3)
 
