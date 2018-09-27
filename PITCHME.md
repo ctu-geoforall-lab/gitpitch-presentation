@@ -1,15 +1,9 @@
-# Flux 
+# CTU GeoForAll Lab
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+![CTU GeoForLab](https://raw.githubusercontent.com/ctu-geoforall-lab/marketing/master/logo/ctu-geoforall-logo.png)
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### GeoForAll Labs
+
+
