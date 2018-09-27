@@ -65,6 +65,30 @@ Worldwide network research and educational laboratories
 - bachelor and master thesis
 - published on [GitHub](https://github.com/orgs/ctu-geoforall-lab-projects)
 
+---?image=images/grass_ann.png&&size=contain
+
+@css[showcase](Thesis #1)
+
+@css[showcase](Mask region-based convolutional neural networks in GRASS GIS)
+
+@css[showcase](Ondrej Pesek 2018)
+
+---?image=images/pywps_docker.png&&size=contain
+
+@css[showcase](Thesis #2)
+
+@css[showcase](Process isolation in PyWPS framework)
+
+@css[showcase](Adam Laza 2018)
+
+---?image=images/grass_anim.png&&size=contain
+
+@css[showcase](Thesis #3)
+
+@css[showcase](Visualization of Spatio-Temporal Data in GRASS GIS)
+
+@css[showcase](Anna Kratochvilova 2012)
+
 ---
 
 ### Contact
