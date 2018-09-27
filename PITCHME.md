@@ -24,8 +24,7 @@ Worldwide network research and educational laboratories
 
 ### Google Summer of Code
 
-Global program focused on bringing more student developers into open
-source software development driven by Google.
+@quote[Global program focused on bringing more student developers into open source software development driven by Google.]
 
 - more than sucessfull 10 GSoC student project since 2012
 - close collaboration with OSGeo foundation
