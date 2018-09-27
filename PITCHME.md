@@ -104,6 +104,12 @@ Worldwide network research and educational laboratories
 
 ### ...
 
+---?image=images/gisquick_rain.png&size=contain
+
+@css[showcase](#1)
+
+@css[showcase](Gisquick publishing platform at the CTU in Prague)
+
 ---
 
 ### Google Summer of Code
