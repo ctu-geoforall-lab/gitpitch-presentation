@@ -37,8 +37,6 @@ Worldwide network research and educational laboratories
 
 @css[showcase](David Tethal 2018)
 
-[Link](https://github.com/davidtethal/gisquick-gsoc2018/wiki/Final-Report-GSoC-2018#sample-projects)
-
 ---
 
 ### Graduate thesis 
