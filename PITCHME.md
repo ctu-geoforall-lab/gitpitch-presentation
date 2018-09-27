@@ -22,6 +22,10 @@ Worldwide network research and educational laboratories
 
 ---
 
+### Project
+
+---
+
 ### Google Summer of Code
 
 @quote[Global program focused on bringing more student developers into open source software development driven by Google.]
