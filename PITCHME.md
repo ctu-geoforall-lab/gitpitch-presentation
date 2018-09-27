@@ -37,6 +37,22 @@ Worldwide network research and educational laboratories
 
 @css[showcase](David Tethal 2018)
 
+---?image=images/grass_meta.png&size=cover&opacity=20
+
+@css[showcase](GSoC #2)
+
+@css[showcase](Improved metadata for GRASS GIS)
+
+@css[showcase](Matej Krejci 2015)
+
+---?image=images/grass_scatter.png&size=cover&opacity=20
+
+@css[showcase](GSoC #3)
+
+@css[showcase](GRASS GIS Interactive Scatter Plot Tool)
+
+@css[showcase](Stepan Turek 2013)
+
 ---
 
 ### Graduate thesis 
