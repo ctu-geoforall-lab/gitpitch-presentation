@@ -19,6 +19,7 @@ Worldwide network research and educational laboratories
 - estahlished in 2012
 - Faculty of Civil Engineering, Czech Technical University
 - focused on open source software development
+- [GitHub](https://github.com/ctu-geoforall-lab)
 
 ---
 
@@ -53,6 +54,41 @@ Worldwide network research and educational laboratories
 @css[showcase](#3)
 
 @css[showcase](Data Catalog)
+
+---
+
+### QGIS
+
+- Land Adjustement QGIS Plugin
+- Ground Radiation Monitoring QGIS Plugin 
+- Radiation Reconnaissance Results QGIS Plugin
+- QGIS RUIAN Plugin
+- QGIS Map Corners Coordinates Plugin
+- QGIS GPS Position Lag Correction Plugin
+- QGIS Plugin for cadastral data (in CZ)
+- ...
+
+---
+
+---?image=images/qgis_ruian.png&size=contain
+
+@css[showcase](#1)
+
+@css[showcase](QGIS RUIAN Plugin)
+
+---?image=images/qgis_pu.png&size=contain
+
+@css[showcase](#2)
+
+@css[showcase](Land Adjustement QGIS plugin)
+
+---?image=images/qgis_vfk.png&size=contain
+
+@css[showcase](#3)
+
+@css[showcase](QGIS Plugin for cadastral data)
+
+### GDAL
 
 ---
 
