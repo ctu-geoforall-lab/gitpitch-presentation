@@ -86,7 +86,7 @@ Worldwide network research and educational laboratories
 
 @css[showcase](QGIS Plugin for cadastral data)
 
---
+---
 
 ### GDAL
 
