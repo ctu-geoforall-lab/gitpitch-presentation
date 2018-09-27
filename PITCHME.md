@@ -1,4 +1,4 @@
-# @size[3.5em](CTU GeoForAll Lab)
+# @size[1em](CTU GeoForAll Lab)
 
 ![Logo](https://raw.githubusercontent.com/ctu-geoforall-lab/marketing/master/logo/ctu-geoforall-logo-small.png)
 
