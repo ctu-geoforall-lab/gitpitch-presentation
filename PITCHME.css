@@ -3,5 +3,5 @@
   box-shadow: none;
 }
 .showcase {
-  text-shadow: 6px 0 0 #fff, -6px 0 0 #fff, 0 6px 0 #fff, 0 -6px 0 #fff, 4px 4px #fff, -4px -4px 0 #fff, 4px -4px 0 #fff, -4px 4px 0 #fff;
+  text-shadow: 4px 0 0 #fff, -4px 0 0 #fff, 0 4px 0 #fff, 0 -4px 0 #fff, 3px 3px #fff, -3px -3px 0 #fff, 3px -3px 0 #fff, -3px 3px 0 #fff;
 }
