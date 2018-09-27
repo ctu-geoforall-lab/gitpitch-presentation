@@ -108,7 +108,7 @@ Worldwide network research and educational laboratories
 
 @css[showcase](#1)
 
-@css[showcase](Gisquick publishing platform at the CTU in Prague)
+@css[showcase](Gisquick publishing platform)
 
 ---
 
