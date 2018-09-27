@@ -63,6 +63,7 @@ Worldwide network research and educational laboratories
 
 - more than 20 thesis defended since 2012
 - bachelor and master thesis
+- published on [GitHub](https://github.com/orgs/ctu-geoforall-lab-projects)
 
 ---
 
