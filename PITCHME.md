@@ -30,7 +30,7 @@ source software development driven by Google.
 - more than sucessfull 10 GSoC student project since 2012
 - close collaboration with OSGeo foundation
 
----?image=images/gisquick.png
+---?image=images/gisquick.pngr&opacity=40
 
 ### GSoC #1
 
