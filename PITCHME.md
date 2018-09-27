@@ -97,6 +97,11 @@ Worldwide network research and educational laboratories
 - DB Storage Support
 - Process Isolation
 
+### Gisquick
+
+- QGIS3 support
+- Time series data support
+
 ### ...
 
 ---
