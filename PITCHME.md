@@ -7,7 +7,8 @@
 ### GeoForAll Labs
 
 Worldwide network research and educational laboratories established by
-OSGeo, ICA, and other organizations following the motto [geo for
-all](https://www.osgeo.org/initiatives/geo-for-all/about-geo-for-all)
+OSGeo, ICA, and other organizations following the motto
 
 @quote[Central to “Geo for All” mission is the belief that knowledge is a public good and Open Principles in Education will provide great opportunities for everyone.]
+
+[GeoForAll](https://www.osgeo.org/initiatives/geo-for-all/about-geo-for-all)
