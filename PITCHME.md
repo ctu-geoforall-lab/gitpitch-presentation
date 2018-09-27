@@ -34,7 +34,7 @@ Worldwide network research and educational laboratories
 - Graphical Modeler
 - 3D viewer
 
----
+---?image=images/grass_modeler.png&size=contain
 
 ### Google Summer of Code
 
