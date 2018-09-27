@@ -3,5 +3,5 @@
   box-shadow: none;
 }
 .headline {
-    width: 60%;
+    font-size: 2em !important;
 }
