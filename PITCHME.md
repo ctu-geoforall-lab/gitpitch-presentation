@@ -35,10 +35,9 @@ source software development driven by Google.
 ### GSoC #1
 
 
-Extension of Gisquick platform filtering tool based on raster and
-vector spatio-temporal data
+@css[showcase](Extension of Gisquick platform filtering tool based on raster and vector spatio-temporal data)
 
-David Tethal 2018
+@css[showcase](David Tethal 2018)
 
 ---
 
