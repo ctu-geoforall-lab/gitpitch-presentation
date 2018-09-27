@@ -33,10 +33,25 @@ Worldwide network research and educational laboratories
 - Cartographic Composer
 - Graphical Modeler
 - 3D viewer
+- Data Catalog
 
 ---?image=images/grass_modeler.png&size=contain
 
+@css[showcase](#1)
+
 @css[showcase](Graphical Modeler)
+
+---?image=images/grass_3d.png&size=contain
+
+@css[showcase](#2)
+
+@css[showcase](3D view)
+
+---?image=images/grass_catalog.png&size=contain
+
+@css[showcase](#3)
+
+@css[showcase](Data Catalog)
 
 ---
 
