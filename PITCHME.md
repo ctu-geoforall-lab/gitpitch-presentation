@@ -1,6 +1,6 @@
 # CTU GeoForAll Lab
 
-![Logo](https://github.com/ctu-geoforall-lab/marketing/blob/master/logo/ctu-geoforall-logo-small.png)
+![Logo](https://raw.githubusercontent.com/ctu-geoforall-lab/marketing/master/logo/ctu-geoforall-logo-small.png)
 
 ---
 
