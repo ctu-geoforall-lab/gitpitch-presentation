@@ -20,7 +20,7 @@ Worldwide network research and educational laboratories
 - Faculty of Civil Engineering, Czech Technical University
 - focused on open source software development
 
----
+---?image=images/grass_modeler.png&size=contain
 
 ### GRASS GIS
 
@@ -34,7 +34,7 @@ Worldwide network research and educational laboratories
 - Graphical Modeler
 - 3D viewer
 
----?image=images/grass_modeler.png&size=contain
+---
 
 ### Google Summer of Code
 
