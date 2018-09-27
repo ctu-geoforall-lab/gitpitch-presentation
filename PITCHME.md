@@ -34,7 +34,6 @@ source software development driven by Google.
 
 @css[showcase](GSoC #1)
 
-
 @css[showcase](Extension of Gisquick platform filtering tool based on raster and vector spatio-temporal data)
 
 @css[showcase](David Tethal 2018)
