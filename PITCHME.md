@@ -22,7 +22,17 @@ Worldwide network research and educational laboratories
 
 ---
 
-### Project
+### GRASS GIS
+
+- various GRASS modules (r.in.wms, v.clip, v.ellipse, ...)
+- Metadata Editor
+- Interactive Scatter Plot Tool
+- Animation Tool
+- Vector Network Analysis Tool
+- Tool for supervised classification of imagery data
+- Cartographic Composer
+- Graphical Modeler
+- 3D viewer
 
 ---
 
