@@ -12,5 +12,7 @@ Worldwide network research and educational laboratories
 
 [GeoForAll](https://www.osgeo.org/initiatives/geo-for-all/about-geo-for-all)
 
+---
+
 ### CTU GeoForAll Lab
 
