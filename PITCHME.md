@@ -30,11 +30,10 @@ source software development driven by Google.
 - more than sucessfull 10 GSoC student project since 2012
 - close collaboration with OSGeo foundation
 
----
+---?image=images/gisquick.png
 
 ### GSoC #1
 
----?image=images/gisquick.png
 
 Extension of Gisquick platform filtering tool based on raster and
 vector spatio-temporal data
