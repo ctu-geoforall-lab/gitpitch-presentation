@@ -32,7 +32,7 @@ source software development driven by Google.
 
 ---?image=images/gisquick.png&size=cover&opacity=20
 
-@css[showcase](### GSoC #1)
+@css[showcase](GSoC #1)
 
 
 @css[showcase](Extension of Gisquick platform filtering tool based on raster and vector spatio-temporal data)
