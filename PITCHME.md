@@ -116,7 +116,7 @@ Worldwide research and educational laboratories network
 
 @quote[Global program focused on bringing more student developers into open source software development driven by Google.]
 
-- more than sucessfull 10 GSoC student project since 2012
+- more than sucessful 10 GSoC student projects since 2012
 - close collaboration with OSGeo foundation
 
 ---?image=images/gisquick.png&size=cover&opacity=20
