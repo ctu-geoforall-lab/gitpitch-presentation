@@ -90,6 +90,13 @@ Worldwide network research and educational laboratories
 
 ### GDAL
 
+- Czech Cadastral Exchange Data Format Support
+
+### PyWPS
+
+- DB Storage Support
+- Process Isolation
+
 ---
 
 ### Google Summer of Code
