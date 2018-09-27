@@ -6,7 +6,7 @@
 
 ### GeoForAll Labs
 
-Worldwide network research and educational laboratories
+Worldwide research and educational laboratories network
 
 @quote[Central to “Geo for All” mission is the belief that knowledge is a public good and Open Principles in Education will provide great opportunities for everyone.]
 
