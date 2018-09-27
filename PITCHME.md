@@ -17,7 +17,7 @@ Worldwide research and educational laboratories network
 ### CTU GeoForAll Lab
 
 - estahlished in 2012
-- Faculty of Civil Engineering, Czech Technical University
+- Department of Geomatics, Faculty of Civil Engineering, Czech Technical University
 - focused on open source software development
 - [GitHub](https://github.com/ctu-geoforall-lab)
 
