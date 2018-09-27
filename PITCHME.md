@@ -68,8 +68,6 @@ Worldwide network research and educational laboratories
 - QGIS Plugin for cadastral data (in CZ)
 - ...
 
----
-
 ---?image=images/qgis_ruian.png&size=contain
 
 @css[showcase](#1)
@@ -87,6 +85,8 @@ Worldwide network research and educational laboratories
 @css[showcase](#3)
 
 @css[showcase](QGIS Plugin for cadastral data)
+
+--
 
 ### GDAL
 
