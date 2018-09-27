@@ -16,3 +16,40 @@ Worldwide network research and educational laboratories
 
 ### CTU GeoForAll Lab
 
+- estahlished in 2012
+- Faculty of Civil Engineering, Czech Technical University
+- focused on open source software development
+
+---
+
+### Google Summer of Code
+
+Global program focused on bringing more student developers into open
+source software development driven by Google.
+
+- more than sucessfull 10 GSoC student project since 2012
+- close collaboration with OSGeo foundation
+
+---
+
+### GSoC #1
+
+---?image=images/gisquick.png
+
+Extension of Gisquick platform filtering tool based on raster and
+vector spatio-temporal data
+
+David Tethal 2018
+
+---
+
+### Graduate thesis 
+
+- more than 20 thesis defended since 2012
+- bachelor and master thesis
+
+---
+
+### Contact
+
+martin.landa@fsv.cvut.cz
