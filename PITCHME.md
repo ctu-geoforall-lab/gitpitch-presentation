@@ -101,8 +101,8 @@ Worldwide research and educational laboratories network
 
 ### Gisquick
 
-- QGIS3 support
-- Time series data support
+- QGIS3 Support
+- Time Series Data Support
 
 ### ...
 
