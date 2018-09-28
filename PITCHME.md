@@ -71,19 +71,19 @@ Worldwide research and educational laboratories network
 
 ---?image=images/qgis_ruian.png&size=contain
 
-@css[showcase](#1)
+@css[showcase](#4)
 
 @css[showcase](QGIS RUIAN Plugin)
 
 ---?image=images/qgis_pu.png&size=contain
 
-@css[showcase](#2)
+@css[showcase](#5)
 
 @css[showcase](Land Adjustment QGIS plugin)
 
 ---?image=images/qgis_vfk.png&size=contain
 
-@css[showcase](#3)
+@css[showcase](#6)
 
 @css[showcase](QGIS Plugin for cadastral data)
 
@@ -107,7 +107,7 @@ Worldwide research and educational laboratories network
 
 ---?image=images/gisquick_rain.png&size=contain
 
-@css[showcase](#1)
+@css[showcase](#7)
 
 @css[showcase](Gisquick publishing platform)
 
