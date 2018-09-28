@@ -16,7 +16,7 @@ Worldwide research and educational laboratories network
 
 ### CTU GeoForAll Lab
 
-- estahlished in 2012
+- established in 2012
 - Department of Geomatics, Faculty of Civil Engineering, Czech Technical University
 - focused on open source software development
 - [GitHub](https://github.com/ctu-geoforall-lab)
@@ -60,7 +60,7 @@ Worldwide research and educational laboratories network
 
 ### QGIS
 
-- Land Adjustement QGIS Plugin
+- Land Adjustment QGIS Plugin
 - Ground Radiation Monitoring QGIS Plugin 
 - Radiation Reconnaissance Results QGIS Plugin
 - QGIS RUIAN Plugin
@@ -79,7 +79,7 @@ Worldwide research and educational laboratories network
 
 @css[showcase](#2)
 
-@css[showcase](Land Adjustement QGIS plugin)
+@css[showcase](Land Adjustment QGIS plugin)
 
 ---?image=images/qgis_vfk.png&size=contain
 
@@ -117,7 +117,7 @@ Worldwide research and educational laboratories network
 
 @quote[Global program focused on bringing more student developers into open source software development driven by Google.]
 
-- more than sucessful 10 GSoC student projects since 2012
+- more than successful 10 GSoC student projects since 2012
 - close collaboration with OSGeo foundation
 
 ---?image=images/gisquick.png&size=cover&opacity=20
