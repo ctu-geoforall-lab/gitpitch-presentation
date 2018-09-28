@@ -18,7 +18,7 @@ Worldwide research and educational laboratories network
 
 - established in 2012
 - Department of Geomatics, Faculty of Civil Engineering, Czech Technical University
-- focused on open source software development
+- focused on open source GIS software development
 - [GitHub](https://github.com/ctu-geoforall-lab)
 - Erasmus internship
 
